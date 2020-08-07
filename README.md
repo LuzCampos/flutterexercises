@@ -4,7 +4,7 @@ Flutter exercises.
 
 <img src="screens/screenshotone.jpg" width="367"> <img src="screens/screenshottwo.jpg" width="367">
 
-<img src="screens/screenshotthree.jpg" width="367"> <img src="screens/screenshotfour.jpg" width="367">
+<img src="screens/screenshotthree.jpg" width="367"> <img src="screens/screenfour.jpg" width="367">
 
 ## Getting Started
 
