@@ -1,6 +1,10 @@
-# disenos
+# diseños
 
-A new Flutter project.
+Flutter exercises.
+
+<img src="screens/screenshotone.jpg" width="367"> <img src="screens/screenshottwo.jpg" width="367">
+
+<img src="screens/screenshotthree.jpg" width="367">
 
 ## Getting Started
 
