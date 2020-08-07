@@ -2,7 +2,7 @@
 
 Flutter exercises.
 
-<img src="screens/screenshotone.jpg" width="367"> <img src="screens/screenshottwo.jpg">
+<img src="screens/screenshotone.jpg" width="367"> <img src="screens/screenshottwo.jpg" width="367">
 
 ## Getting Started
 
