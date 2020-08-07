@@ -62,7 +62,6 @@ class ScrollPage extends StatelessWidget {
       color: Color.fromRGBO(108, 192, 218, 1.0),
       child: Center(
         child: RaisedButton(
-          //elevation: 2.0,
           shape: StadiumBorder(),
           color: Colors.blue,
           textColor: Colors.white,
